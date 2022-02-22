@@ -9,6 +9,7 @@ Options:
   -h, --hasta    Muestra hasta donde hara la tabla        [number] [default: 10]
 ```
 
+```
 # --Inicializar el proyecto al git:--
 
 # comandos de git:
@@ -25,4 +26,4 @@ Options:
 # git add . 
 # git commit -m "Readme agregado"
 # git push 
-
+```
